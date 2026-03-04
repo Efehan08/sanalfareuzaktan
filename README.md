@@ -33,3 +33,11 @@ To run this project, you need to connect your smartphone and PC to the same Wi-F
      ```
 3. **Run the script:**
      python virtual_mouse.py
+How to Use (Gestures)
+Move Cursor: Move your index and thumb fingers together around the screen.
+
+Left Click / Drag: Pinch your Index Finger and Thumb together. Hold to drag.
+
+Right Click: Pinch your Middle Finger and Thumb together.
+
+Exit: Press the q key on your physical keyboard to terminate the program.
